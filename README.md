@@ -15,7 +15,9 @@
 
 ### My Stats :
 
-[![Samuelnerat's github stats](https://github-readme-stats.vercel.app/api?username=Samuelnerat&count_private=true&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true&custom_title=My%20GitHub%20Stats&token=GH_TOKEN]
+
+![Samuelnerat's github stats](https://github-readme-stats.vercel.app/api?username=Samuelnerat&count_private=true&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true&custom_title=My%20GitHub%20Stats&token=GH_TOKEN)
+
 
 ## 💻 My Stack :
 
